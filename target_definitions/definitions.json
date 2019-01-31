@@ -1,0 +1,1034 @@
+[
+  {
+    "specVersion" : 2,
+    "label": "40cm",
+    "shortName": "3 Spot",
+    "defaultDistance": "18m",
+    "defVersion": 2,
+    "name": "3 Spot",
+    "defaultArrowsPerEnd": 3,
+    "sizeCM": 80,
+    "defaultEnds": 10,
+
+    "faces": [
+      {
+        "name": "face 1",
+        "xCM": 0,
+        "yCM": -22.54
+      },
+      {
+        "name": "face 2",
+        "xCM": 0,
+        "yCM": 0
+      },
+      {
+        "name": "face 3",
+        "xCM": 0,
+        "yCM": 22.54
+      }
+    ],
+
+    "center": {
+      "lengthMM": 8,
+      "widthMM": 0.5,
+      "color24": 0,
+      "style": "+"
+    },
+
+    "rings": [
+      {
+        "diameterCM": 20,
+        "points": 6,
+        "outsideBorder24": 0,
+        "insideFill24": 1945580,
+        "font24": 0
+      },
+      {
+        "diameterCM": 16,
+        "points": 7,
+        "outsideBorder24": 0,
+        "insideFill24": 15343914,
+        "font24": 0
+      },
+      {
+        "diameterCM": 12,
+        "points": 8,
+        "outsideBorder24": 0,
+        "insideFill24": 15343914,
+        "font24": 0
+      },
+      {
+        "diameterCM": 8,
+        "points": 9,
+        "outsideBorder24": 0,
+        "insideFill24": 16773173,
+        "font24": 0
+      },
+      {
+        "diameterCM": 4,
+        "points": 10,
+        "outsideBorder24": 0,
+        "insideFill24": 16773173,
+        "font24": 0
+      },
+      {
+        "outsideBorder24": 9474192,
+        "insideFill24": 16773173,
+        "diameterCM": 2,
+        "isX": true,
+        "points": 10,
+        "font24": 0
+      }
+    ]
+  },
+
+
+
+
+  {
+    "specVersion" : 2,
+    "label": "40cm",
+    "shortName": "3 Spot Compound",
+    "defaultDistance": "18m",
+    "defVersion": 2,
+    "name": "3 Spot Compound",
+    "defaultArrowsPerEnd": 3,
+    "sizeCM": 80,
+    "defaultEnds": 10,
+
+    "faces": [
+      {
+        "name": "face 1",
+        "xCM": 0,
+        "yCM": -22.54
+      },
+      {
+        "name": "face 2",
+        "xCM": 0,
+        "yCM": 0
+      },
+      {
+        "name": "face 3",
+        "xCM": 0,
+        "yCM": 22.54
+      }
+    ],
+
+    "center": {
+      "lengthMM": 8,
+      "widthMM": 0.5,
+      "color24": 0,
+      "style": "+"
+    },
+
+    "rings": [
+      {
+        "diameterCM": 20,
+        "points": 6,
+        "outsideBorder24": 0,
+        "insideFill24": 1945580,
+        "font24": 0
+      },
+      {
+        "diameterCM": 16,
+        "points": 7,
+        "outsideBorder24": 0,
+        "insideFill24": 15343914,
+        "font24": 0
+      },
+      {
+        "diameterCM": 12,
+        "points": 8,
+        "outsideBorder24": 0,
+        "insideFill24": 15343914,
+        "font24": 0
+      },
+      {
+        "diameterCM": 8,
+        "points": 9,
+        "outsideBorder24": 0,
+        "insideFill24": 16773173,
+        "font24": 0
+      },
+      {
+        "diameterCM": 4,
+        "points": 9,
+        "outsideBorder24": 0,
+        "insideFill24": 16773173,
+        "font24": 0
+      },
+      {
+        "outsideBorder24": 9474192,
+        "insideFill24": 16773173,
+        "diameterCM": 2,
+        "points": 10,
+        "font24": 0
+      }
+    ]
+  },
+
+
+
+  {
+    "specVersion": 2,
+    "label": "40cm",
+    "shortName": "NFAA",
+    "defaultDistance": "18m",
+    "defVersion": 2,
+    "name": "NFAA Indoor",
+    "defaultArrowsPerEnd": 5,
+    "sizeCM": 40,
+    "defaultEnds": 12,
+
+    "faces": [
+      {
+        "yCM": 0,
+        "xCM": 0,
+        "name": "Blue Face"
+      }
+    ],
+
+    "center": {
+      "lengthMM": 14,
+      "widthMM": 3,
+      "color24": 3158112,
+      "style": "x"
+    },
+
+    "rings": [
+      {
+        "diameterCM": 40,
+        "points": 1,
+        "outsideBorder24": 16777215,
+        "insideFill24": 3158112,
+        "font24": 16777215
+      },
+      {
+        "diameterCM": 32,
+        "points": 2,
+        "outsideBorder24": 16777215,
+        "insideFill24": 3158112,
+        "font24": 16777215
+      },
+      {
+        "diameterCM": 24,
+        "points": 3,
+        "outsideBorder24": 16777215,
+        "insideFill24": 3158112,
+        "font24": 16777215
+      },
+      {
+        "diameterCM": 16,
+        "points": 4,
+        "outsideBorder24": 16777215,
+        "insideFill24": 3158112,
+        "font24": 16777215
+      },
+      {
+        "diameterCM": 8,
+        "points": 5,
+        "outsideBorder24": 16777215,
+        "insideFill24": 16777215,
+        "font24": 0
+      },
+      {
+        "outsideBorder24": 3158112,
+        "insideFill24": 16777215,
+        "diameterCM": 4,
+        "isX": true,
+        "points": 5,
+        "font24": 0
+      }
+    ]
+
+  },
+
+
+
+  {
+    "specVersion": 2,
+    "label": "40cm",
+    "shortName": "FITA Compound",
+    "defaultDistance": "18m",
+    "defVersion": 2,
+    "name": "40cm FITA Compound",
+    "defaultArrowsPerEnd": 3,
+    "sizeCM": 40,
+    "defaultEnds": 10,
+
+    "faces": [
+      {
+        "yCM": 0,
+        "xCM": 0,
+        "name": "10 Ring 40cm Compound"
+      }
+    ],
+
+    "center": {
+      "lengthMM": 8,
+      "widthMM": 0.5,
+      "color24": 0,
+      "style": "+"
+    },
+
+    "rings": [
+      {
+        "diameterCM": 40,
+        "points": 1,
+        "outsideBorder24": 0,
+        "insideFill24": 16777215,
+        "font24": 0
+      },
+      {
+        "diameterCM": 36,
+        "points": 2,
+        "outsideBorder24": 0,
+        "insideFill24": 16777215,
+        "font24": 0
+      },
+      {
+        "diameterCM": 32,
+        "points": 3,
+        "outsideBorder24": 0,
+        "insideFill24": 0,
+        "font24": 16777215
+      },
+      {
+        "diameterCM": 28,
+        "points": 4,
+        "outsideBorder24": 16777215,
+        "insideFill24": 0,
+        "font24": 16777215
+      },
+      {
+        "diameterCM": 24,
+        "points": 5,
+        "outsideBorder24": 0,
+        "insideFill24": 1945580,
+        "font24": 0
+      },
+      {
+        "diameterCM": 20,
+        "points": 6,
+        "outsideBorder24": 0,
+        "insideFill24": 1945580,
+        "font24": 0
+      },
+      {
+        "diameterCM": 16,
+        "points": 7,
+        "outsideBorder24": 0,
+        "insideFill24": 15343914,
+        "font24": 0
+      },
+      {
+        "diameterCM": 12,
+        "points": 8,
+        "outsideBorder24": 0,
+        "insideFill24": 15343914,
+        "font24": 0
+      },
+      {
+        "diameterCM": 8,
+        "points": 9,
+        "outsideBorder24": 0,
+        "insideFill24": 16773173,
+        "font24": 0
+      },
+      {
+        "diameterCM": 4,
+        "points": 9,
+        "outsideBorder24": 0,
+        "insideFill24": 16773173,
+        "font24": 0
+      },
+      {
+        "outsideBorder24": 9474192,
+        "insideFill24": 16773173,
+        "diameterCM": 2,
+        "isX": false,
+        "points": 10,
+        "font24": 0
+      }
+    ]
+  },
+
+
+
+
+  {
+    "specVersion": 2,
+    "label": "40cm",
+    "shortName": "FITA",
+    "defaultDistance": "18m",
+    "defVersion": 2,
+    "name": "40cm FITA",
+    "defaultArrowsPerEnd": 3,
+    "sizeCM": 40,
+    "defaultEnds": 10,
+
+    "faces": [
+      {
+        "yCM": 0,
+        "xCM": 0,
+        "name": "10 Ring 40cm"
+      }
+    ],
+
+    "center": {
+      "lengthMM": 8,
+      "widthMM": 0.5,
+      "color24": 0,
+      "style": "+"
+    },
+
+    "rings": [
+      {
+        "diameterCM": 40,
+        "points": 1,
+        "outsideBorder24": 0,
+        "insideFill24": 16777215,
+        "font24": 0
+      },
+      {
+        "diameterCM": 36,
+        "points": 2,
+        "outsideBorder24": 0,
+        "insideFill24": 16777215,
+        "font24": 0
+      },
+      {
+        "diameterCM": 32,
+        "points": 3,
+        "outsideBorder24": 0,
+        "insideFill24": 0,
+        "font24": 16777215
+      },
+      {
+        "diameterCM": 28,
+        "points": 4,
+        "outsideBorder24": 16777215,
+        "insideFill24": 0,
+        "font24": 16777215
+      },
+      {
+        "diameterCM": 24,
+        "points": 5,
+        "outsideBorder24": 0,
+        "insideFill24": 1945580,
+        "font24": 0
+      },
+      {
+        "diameterCM": 20,
+        "points": 6,
+        "outsideBorder24": 0,
+        "insideFill24": 1945580,
+        "font24": 0
+      },
+      {
+        "diameterCM": 16,
+        "points": 7,
+        "outsideBorder24": 0,
+        "insideFill24": 15343914,
+        "font24": 0
+      },
+      {
+        "diameterCM": 12,
+        "points": 8,
+        "outsideBorder24": 0,
+        "insideFill24": 15343914,
+        "font24": 0
+      },
+      {
+        "diameterCM": 8,
+        "points": 9,
+        "outsideBorder24": 0,
+        "insideFill24": 16773173,
+        "font24": 0
+      },
+      {
+        "diameterCM": 4,
+        "points": 10,
+        "outsideBorder24": 0,
+        "insideFill24": 16773173,
+        "font24": 0
+      },
+      {
+        "outsideBorder24": 9474192,
+        "insideFill24": 16773173,
+        "diameterCM": 2,
+        "isX": true,
+        "points": 10,
+        "font24": 0
+      }
+    ]
+  },
+
+
+
+
+  {
+    "specVersion": 2,
+    "label": "60cm",
+    "shortName": "FITA",
+    "defaultDistance": "25m",
+    "defVersion": 2,
+    "name": "60cm FITA",
+    "defaultArrowsPerEnd": 3,
+    "sizeCM": 60,
+    "defaultEnds": 10,
+
+    "faces": [
+      {
+        "yCM": 0,
+        "xCM": 0,
+        "name": "10 Ring"
+      }
+    ],
+
+    "center": {
+      "lengthMM": 8,
+      "widthMM": 0.5,
+      "color24": 0,
+      "style": "+"
+    },
+
+    "rings": [
+      {
+        "diameterCM": 60,
+        "points": 1,
+        "outsideBorder24": 0,
+        "insideFill24": 16777215,
+        "font24": 0
+      },
+      {
+        "diameterCM": 54,
+        "points": 2,
+        "outsideBorder24": 0,
+        "insideFill24": 16777215,
+        "font24": 0
+      },
+      {
+        "diameterCM": 48,
+        "points": 3,
+        "outsideBorder24": 0,
+        "insideFill24": 0,
+        "font24": 16777215
+      },
+      {
+        "diameterCM": 42,
+        "points": 4,
+        "outsideBorder24": 16777215,
+        "insideFill24": 0,
+        "font24": 16777215
+      },
+      {
+        "diameterCM": 36,
+        "points": 5,
+        "outsideBorder24": 0,
+        "insideFill24": 1945580,
+        "font24": 0
+      },
+      {
+        "diameterCM": 30,
+        "points": 6,
+        "outsideBorder24": 0,
+        "insideFill24": 1945580,
+        "font24": 0
+      },
+      {
+        "diameterCM": 24,
+        "points": 7,
+        "outsideBorder24": 0,
+        "insideFill24": 15343914,
+        "font24": 0
+      },
+      {
+        "diameterCM": 18,
+        "points": 8,
+        "outsideBorder24": 0,
+        "insideFill24": 15343914,
+        "font24": 0
+      },
+      {
+        "diameterCM": 12,
+        "points": 9,
+        "outsideBorder24": 0,
+        "insideFill24": 16773173,
+        "font24": 0
+      },
+      {
+        "diameterCM": 6,
+        "points": 10,
+        "outsideBorder24": 0,
+        "insideFill24": 16773173,
+        "font24": 0
+      },
+      {
+        "outsideBorder24": 9474192,
+        "insideFill24": 16773173,
+        "diameterCM": 3,
+        "isX": true,
+        "points": 10,
+        "font24": 0
+      }
+    ]
+  },
+
+
+
+
+  {
+    "specVersion": 2,
+    "label": "80cm",
+    "shortName": "FITA",
+    "defaultDistance": "40m",
+    "defVersion": 2,
+    "name": "80cm FITA",
+    "defaultArrowsPerEnd": 3,
+    "sizeCM": 80,
+    "defaultEnds": 10,
+
+    "faces": [
+      {
+        "yCM": 0,
+        "xCM": 0,
+        "name": "10 Ring"
+      }
+    ],
+
+    "center": {
+      "lengthMM": 8,
+      "widthMM": 0.5,
+      "color24": 0,
+      "style": "+"
+    },
+
+    "rings": [
+      {
+        "diameterCM": 80,
+        "points": 1,
+        "outsideBorder24": 0,
+        "insideFill24": 16777215,
+        "font24": 0
+      },
+      {
+        "diameterCM": 72,
+        "points": 2,
+        "outsideBorder24": 0,
+        "insideFill24": 16777215,
+        "font24": 0
+      },
+      {
+        "diameterCM": 64,
+        "points": 3,
+        "outsideBorder24": 0,
+        "insideFill24": 0,
+        "font24": 16777215
+      },
+      {
+        "diameterCM": 56,
+        "points": 4,
+        "outsideBorder24": 16777215,
+        "insideFill24": 0,
+        "font24": 16777215
+      },
+      {
+        "diameterCM": 48,
+        "points": 5,
+        "outsideBorder24": 0,
+        "insideFill24": 1945580,
+        "font24": 0
+      },
+      {
+        "diameterCM": 40,
+        "points": 6,
+        "outsideBorder24": 0,
+        "insideFill24": 1945580,
+        "font24": 0
+      },
+      {
+        "diameterCM": 32,
+        "points": 7,
+        "outsideBorder24": 0,
+        "insideFill24": 15343914,
+        "font24": 0
+      },
+      {
+        "diameterCM": 24,
+        "points": 8,
+        "outsideBorder24": 0,
+        "insideFill24": 15343914,
+        "font24": 0
+      },
+      {
+        "diameterCM": 16,
+        "points": 9,
+        "outsideBorder24": 0,
+        "insideFill24": 16773173,
+        "font24": 0
+      },
+      {
+        "diameterCM": 8,
+        "points": 10,
+        "outsideBorder24": 0,
+        "insideFill24": 16773173,
+        "font24": 0
+      },
+      {
+        "outsideBorder24": 9474192,
+        "insideFill24": 16773173,
+        "diameterCM": 4,
+        "isX": true,
+        "points": 10,
+        "font24": 0
+      }
+    ]
+  },
+
+
+
+  {
+    "specVersion": 2,
+    "label": "122cm",
+    "shortName": "FITA",
+    "defaultDistance": "70m",
+    "defVersion": 2,
+    "name": "122cm FITA",
+    "defaultArrowsPerEnd": 3,
+    "sizeCM": 122,
+    "defaultEnds": 10,
+
+    "center": {
+      "lengthMM": 8,
+      "widthMM": 0.5,
+      "color24": 0,
+      "style": "+"
+    },
+
+    "faces": [
+      {
+        "yCM": 0,
+        "xCM": 0,
+        "name": "10 Ring"
+      }
+    ],
+
+    "rings": [
+      {
+        "diameterCM": 122,
+        "points": 1,
+        "outsideBorder24": 0,
+        "insideFill24": 16777215,
+        "font24": 0
+      },
+      {
+        "diameterCM": 108.8,
+        "points": 2,
+        "outsideBorder24": 0,
+        "insideFill24": 16777215,
+        "font24": 0
+      },
+      {
+        "diameterCM": 96.6,
+        "points": 3,
+        "outsideBorder24": 0,
+        "insideFill24": 0,
+        "font24": 16777215
+      },
+      {
+        "diameterCM": 84.4,
+        "points": 4,
+        "outsideBorder24": 16777215,
+        "insideFill24": 0,
+        "font24": 16777215
+      },
+      {
+        "diameterCM": 72.2,
+        "points": 5,
+        "outsideBorder24": 0,
+        "insideFill24": 1945580,
+        "font24": 0
+      },
+      {
+        "diameterCM": 60,
+        "points": 6,
+        "outsideBorder24": 0,
+        "insideFill24": 1945580,
+        "font24": 0
+      },
+      {
+        "diameterCM": 48.8,
+        "points": 7,
+        "outsideBorder24": 0,
+        "insideFill24": 15343914,
+        "font24": 0
+      },
+      {
+        "diameterCM": 36.6,
+        "points": 8,
+        "outsideBorder24": 0,
+        "insideFill24": 15343914,
+        "font24": 0
+      },
+      {
+        "diameterCM": 24.4,
+        "points": 9,
+        "outsideBorder24": 0,
+        "insideFill24": 16773173,
+        "font24": 0
+      },
+      {
+        "diameterCM": 12.2,
+        "points": 10,
+        "outsideBorder24": 0,
+        "insideFill24": 16773173,
+        "font24": 0
+      },
+      {
+        "outsideBorder24": 9474192,
+        "insideFill24": 16773173,
+        "diameterCM": 6.1,
+        "isX": true,
+        "points": 10,
+        "font24": 0
+      }
+    ]
+  },
+
+
+
+
+  {
+    "specVersion": 2,
+    "label": "40cm",
+    "shortName": "Vegas Shoot",
+    "defaultDistance": "20yd",
+    "defVersion": 2,
+    "name": "Vegas Shoot",
+    "defaultArrowsPerEnd": 3,
+    "sizeCM": 44.5,
+    "defaultEnds": 10,
+
+    "center": {
+      "lengthMM": 8,
+      "widthMM": 0.5,
+      "color24": 0,
+      "style": "+"
+    },
+
+    "faces": [
+      {
+        "name": "face 1",
+        "xCM": -10.635,
+        "yCM": 9.25
+      },
+      {
+        "name": "face 2",
+        "xCM": 0,
+        "yCM": -9.25
+      },
+      {
+        "name": "face 3",
+        "xCM": 10.635,
+        "yCM": 9.25
+      }
+    ],
+
+    "rings": [
+      {
+        "diameterCM": 20,
+        "points": 6,
+        "outsideBorder24": 0,
+        "insideFill24": 1945580,
+        "font24": 0
+      },
+      {
+        "diameterCM": 16,
+        "points": 7,
+        "outsideBorder24": 0,
+        "insideFill24": 15343914,
+        "font24": 0
+      },
+      {
+        "diameterCM": 12,
+        "points": 8,
+        "outsideBorder24": 0,
+        "insideFill24": 15343914,
+        "font24": 0
+      },
+      {
+        "diameterCM": 8,
+        "points": 9,
+        "outsideBorder24": 0,
+        "insideFill24": 16773173,
+        "font24": 0
+      },
+      {
+        "diameterCM": 4,
+        "points": 10,
+        "outsideBorder24": 0,
+        "insideFill24": 16773173,
+        "font24": 0
+      },
+      {
+        "outsideBorder24": 9474192,
+        "insideFill24": 16773173,
+        "diameterCM": 2,
+        "isX": true,
+        "points": 10,
+        "font24": 0
+      }
+    ]
+  },
+
+
+  {
+    "specVersion": 2,
+    "label": "40cm",
+    "shortName": "5 Spot",
+    "defaultDistance": "18m",
+    "defVersion": 2,
+    "name": "5 Spot",
+    "defaultArrowsPerEnd": 3,
+    "sizeCM": 44,
+    "defaultEnds": 10,
+
+    "center": {
+      "lengthMM": 14,
+      "widthMM": 3,
+      "color24": 3158112,
+      "style": "x"
+    },
+
+    "faces": [
+      {
+        "name": "face SW",
+        "yCM": -12.4,
+        "xCM": -12.4
+      },
+      {
+        "name": "face SE",
+        "yCM": -12.4,
+        "xCM": 12.4
+      },
+      {
+        "name": "face C",
+        "yCM": 0,
+        "xCM": 0
+      },
+      {
+        "name": "face NW",
+        "yCM": 12.4,
+        "xCM": -12.4
+      },
+      {
+        "name": "face NE",
+        "yCM": 12.4,
+        "xCM": 12.4
+      }
+    ],
+
+    "rings": [
+      {
+        "diameterCM": 16,
+        "points": 4,
+        "outsideBorder24": 3158112,
+        "insideFill24": 3158112,
+        "font24": 16777215
+      },
+      {
+        "diameterCM": 12,
+        "points": 4,
+        "outsideBorder24": 16777215,
+        "insideFill24": 3158112,
+        "font24": 16777215
+      },
+      {
+        "diameterCM": 8,
+        "points": 5,
+        "outsideBorder24": 16777215,
+        "insideFill24": 16777215,
+        "font24": 0
+      },
+      {
+        "outsideBorder24": 3158112,
+        "insideFill24": 16777215,
+        "diameterCM": 4,
+        "isX": true,
+        "points": 5,
+        "font24": 0
+      }
+    ]
+
+  },
+
+
+
+
+  {
+    "specVersion": 2,
+    "label": "16in",
+    "shortName": "Worcester",
+    "defaultDistance": "20yd",
+    "defVersion": 2,
+    "name": "Worcester",
+    "defaultArrowsPerEnd": 5,
+    "sizeCM": 40.64,
+    "defaultEnds": 12,
+
+    "center": {
+      "lengthMM": 8,
+      "widthMM": 0.5,
+      "color24": 13421772,
+      "style": "+"
+    },
+
+    "faces": [
+      {
+        "yCM": 0,
+        "xCM": 0,
+        "name": "Worcester"
+      }
+    ],
+
+    "rings": [
+      {
+        "diameterCM": 40.64,
+        "points": 1,
+        "outsideBorder24": 16777215,
+        "insideFill24": 2500134,
+        "font24": 16777215
+      },
+      {
+        "diameterCM": 32.512,
+        "points": 2,
+        "outsideBorder24": 16777215,
+        "insideFill24": 2500134,
+        "font24": 16777215
+      },
+      {
+        "diameterCM": 24.384,
+        "points": 3,
+        "outsideBorder24": 16777215,
+        "insideFill24": 2500134,
+        "font24": 16777215
+      },
+      {
+        "diameterCM": 16.256,
+        "points": 4,
+        "outsideBorder24": 16777215,
+        "insideFill24": 2500134,
+        "font24": 16777215
+      },
+      {
+        "diameterCM": 8.128,
+        "points": 5,
+        "outsideBorder24": 16777215,
+        "insideFill24": 16777215,
+        "font24": 0
+      }
+    ]
+  }
+]
+
